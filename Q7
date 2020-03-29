@@ -1,0 +1,15 @@
+Q7. Disadvantages of Selenium-
+
+Ans:-Some of the disadvantages of Selenium are-
+
+     1. It supports Web-based applications only.
+
+     2. Difficult to use takes more time to create Test cases.
+
+     3. Difficult to Setup Test Environment when it compares to Vendor Tools like UFT, RFT, SilkTest.
+
+     4. Limited support for Image Testing.
+
+     5. No Test Tool integration for Test Management.
+
+     6. No Built-in Reporting facility.
