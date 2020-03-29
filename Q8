@@ -1,0 +1,6 @@
+Q8. Difference between get() & navigate() method
+
+Ans- driver.get() method will just get you the webpage and will wait until the webpage is      loaded but driver.
+navigate() method allows us to move forward or backward in the browser. 
+if we want to go to the previous page we use driver.navigate().back() and after getting on previous page if we want to go to the next page we use driver.navigate.forward().
+
