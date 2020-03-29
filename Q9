@@ -1,0 +1,10 @@
+Q9 - Differnce between Selenium RC and Selenium WebDriver.
+
+Ans- Selenium WebDriver drives the browser using browser's built-in support while 
+     Selenium RC injects javascript function into browsers when the web page is loaded.
+
+     As selenium RC is injecting java script code to browsers , the browsers act almost in         similar  manner But for WebDriver the calls are made directly using particular browser's native support ,the browsers behave more like in case of user interactions
+
+     Web Driver's API is more concise than Selenium RC's.
+
+     Web Driver can support Html Unit while Selenium RC cannot.
