@@ -1,0 +1,20 @@
+The main advantage of testNG can be listed as follows:-
+
+
+1.TestNG provides parallel execution of test methods
+2.It allows to define dependency of one test method over other method
+3.It allows to assign priority to test methods
+4.It allows grouping of test methods into test groups
+5.It has support for parameterizing test cases using @Parameters annotation
+6.It allows data driven testing using @DataProvider annotation
+7.It has different assertions that helps in checking the expected and actual results
+8.Detailed (HTML) reports
+
+Advantages of TestNG annotations:-
+
+1.With the help of annotations, multiple test can be run at the same time.
+2.Annotations provide manipulation in order of running tests.
+3.Annotations provide parameterization in Tests.
+4.Annotations helps in performing special methods on different scenarios of tests,if any
+  test fails we can give some conditions to it.. if any one passes we can provide some other
+  conditions.
